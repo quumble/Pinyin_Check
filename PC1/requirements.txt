@@ -1,0 +1,5 @@
+# PC1 dependencies — three libraries, nothing else.
+# Pinned to minimum versions known to work; newer is fine.
+anthropic>=0.40
+openai>=1.50
+pypinyin>=0.51

@@ -1,0 +1,275 @@
+{
+  "seed": 21,
+  "lengths": [
+    2,
+    4,
+    8
+  ],
+  "prompt_template": "please describe {stimulus} as an imaginary creature",
+  "cells": [
+    {
+      "id": "void_atonal_L2",
+      "arm": "void",
+      "tone": "atonal",
+      "length": 2,
+      "text": "hve tiang",
+      "syllables": [
+        "hve",
+        "tiang"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "void_tonal_L2",
+      "arm": "void",
+      "tone": "tonal",
+      "length": 2,
+      "text": "hvè tiǎng",
+      "syllables": [
+        "hvè",
+        "tiǎng"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "void_atonal_L4",
+      "arm": "void",
+      "tone": "atonal",
+      "length": 4,
+      "text": "zhie king zhian zuang",
+      "syllables": [
+        "zhie",
+        "king",
+        "zhian",
+        "zuang"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "void_tonal_L4",
+      "arm": "void",
+      "tone": "tonal",
+      "length": 4,
+      "text": "zhié kíng zhiān zuāng",
+      "syllables": [
+        "zhié",
+        "kíng",
+        "zhiān",
+        "zuāng"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "void_atonal_L8",
+      "arm": "void",
+      "tone": "atonal",
+      "length": 8,
+      "text": "shiao tuai dei hia, luai luang cia xa",
+      "syllables": [
+        "shiao",
+        "tuai",
+        "dei",
+        "hia",
+        "luai",
+        "luang",
+        "cia",
+        "xa"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "void_tonal_L8",
+      "arm": "void",
+      "tone": "tonal",
+      "length": 8,
+      "text": "shiào tuài dēi hiǎ, luài luāng ciǎ xā",
+      "syllables": [
+        "shiào",
+        "tuài",
+        "dēi",
+        "hiǎ",
+        "luài",
+        "luāng",
+        "ciǎ",
+        "xā"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "real_atonal_L2",
+      "arm": "real",
+      "tone": "atonal",
+      "length": 2,
+      "text": "gong dai",
+      "syllables": [
+        "gong",
+        "dai"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "real_tonal_L2",
+      "arm": "real",
+      "tone": "tonal",
+      "length": 2,
+      "text": "gōng dāi",
+      "syllables": [
+        "gōng",
+        "dāi"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "real_atonal_L4",
+      "arm": "real",
+      "tone": "atonal",
+      "length": 4,
+      "text": "shen guai zhe nie",
+      "syllables": [
+        "shen",
+        "guai",
+        "zhe",
+        "nie"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "real_tonal_L4",
+      "arm": "real",
+      "tone": "tonal",
+      "length": 4,
+      "text": "shèn guài zhé nié",
+      "syllables": [
+        "shèn",
+        "guài",
+        "zhé",
+        "nié"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "real_atonal_L8",
+      "arm": "real",
+      "tone": "atonal",
+      "length": 8,
+      "text": "cang song kou chuang, huo jie chuai fan",
+      "syllables": [
+        "cang",
+        "song",
+        "kou",
+        "chuang",
+        "huo",
+        "jie",
+        "chuai",
+        "fan"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "real_tonal_L8",
+      "arm": "real",
+      "tone": "tonal",
+      "length": 8,
+      "text": "càng sòng kóu chuǎng, huó jiè chuǎi fǎn",
+      "syllables": [
+        "càng",
+        "sòng",
+        "kóu",
+        "chuǎng",
+        "huó",
+        "jiè",
+        "chuǎi",
+        "fǎn"
+      ],
+      "source_chars": null
+    },
+    {
+      "id": "romanized_atonal_L2",
+      "arm": "romanized",
+      "tone": "atonal",
+      "length": 2,
+      "text": "jiao ai",
+      "syllables": [
+        "jiao",
+        "ai"
+      ],
+      "source_chars": "湫隘"
+    },
+    {
+      "id": "romanized_tonal_L2",
+      "arm": "romanized",
+      "tone": "tonal",
+      "length": 2,
+      "text": "jiǎo ài",
+      "syllables": [
+        "jiǎo",
+        "ài"
+      ],
+      "source_chars": "湫隘"
+    },
+    {
+      "id": "romanized_atonal_L4",
+      "arm": "romanized",
+      "tone": "atonal",
+      "length": 4,
+      "text": "jiao ai liu li",
+      "syllables": [
+        "jiao",
+        "ai",
+        "liu",
+        "li"
+      ],
+      "source_chars": "湫隘飂戾"
+    },
+    {
+      "id": "romanized_tonal_L4",
+      "arm": "romanized",
+      "tone": "tonal",
+      "length": 4,
+      "text": "jiǎo ài liù lì",
+      "syllables": [
+        "jiǎo",
+        "ài",
+        "liù",
+        "lì"
+      ],
+      "source_chars": "湫隘飂戾"
+    },
+    {
+      "id": "romanized_atonal_L8",
+      "arm": "romanized",
+      "tone": "atonal",
+      "length": 8,
+      "text": "jiao ai liu li, hui tui yao yan",
+      "syllables": [
+        "jiao",
+        "ai",
+        "liu",
+        "li",
+        "hui",
+        "tui",
+        "yao",
+        "yan"
+      ],
+      "source_chars": "湫隘飂戾豗隤杳莚"
+    },
+    {
+      "id": "romanized_tonal_L8",
+      "arm": "romanized",
+      "tone": "tonal",
+      "length": 8,
+      "text": "jiǎo ài liù lì, huī tuí yǎo yán",
+      "syllables": [
+        "jiǎo",
+        "ài",
+        "liù",
+        "lì",
+        "huī",
+        "tuí",
+        "yǎo",
+        "yán"
+      ],
+      "source_chars": "湫隘飂戾豗隤杳莚"
+    }
+  ]
+}
